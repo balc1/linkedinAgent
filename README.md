@@ -17,6 +17,7 @@ Secure API Key Input: Users enter their own API key to use the service.
 1️⃣ Clone the Repository
 
 git clone https://github.com/balc1/linkedinAgent.git
+
 cd linkedinAgent
 
 2️⃣ Install Dependencies
